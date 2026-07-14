@@ -65,7 +65,7 @@
     "@chia-network/icons": "1.0.0",
     "@emotion/react": "11.11.1",
     "@emotion/styled": "11.11.0",
-    "@lingui/cli": "4.11.4",
+    "@lingui/cli": "6.5.0",
     "@lingui/core": "4.11.4",
     "@lingui/react": "4.11.4",
     "@loadable/babel-plugin": "5.16.1",
